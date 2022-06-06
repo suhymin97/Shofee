@@ -1,0 +1,9 @@
+nodejs
+- start local				npm start
+- install module			npm install x --save
+/package.json
+- development dependency	npm i eslint@6.0.0 --save-dev
+- install package.json		npm i
+
+ERR: listen EADDRINUSE: address already in use :::8081
+- run cmd admin: taskkill /F /IM node.exe
